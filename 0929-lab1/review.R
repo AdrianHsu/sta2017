@@ -57,3 +57,5 @@ library(gplots) #類似import
 # 除此heatmap函数之外，gplots包中的heatmap.2()函数，也可以做热点图聚类。
 # heatmap.2(newdat.std, trace="none", col=redgreen)
 heatmap(as.matrix(newdat.std))
+
+
